@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingApplication", "MeetingApplication.csproj", "{88DFA980-96A8-4B29-BD74-8D9BF0BD7BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DFA980-96A8-4B29-BD74-8D9BF0BD7BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DFA980-96A8-4B29-BD74-8D9BF0BD7BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DFA980-96A8-4B29-BD74-8D9BF0BD7BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DFA980-96A8-4B29-BD74-8D9BF0BD7BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3339E0-6028-45A7-B9B5-E8F77BAB2803}
+	EndGlobalSection
+EndGlobal
